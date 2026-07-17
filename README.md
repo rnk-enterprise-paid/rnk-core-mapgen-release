@@ -34,7 +34,7 @@ Campaign button opens the campaign manager for multi-session dungeon tracking.
 ## Installation
 
 ```
-https://github.com/RNK-Enterprise/rnk-core-mapgen-release/releases/latest/download/module.json
+https://github.com/rnk-enterprise-paid/rnk-core-mapgen-release/releases/latest/download/module.json
 ```
 
 ---
