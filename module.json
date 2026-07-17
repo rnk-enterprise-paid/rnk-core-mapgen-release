@@ -2,7 +2,7 @@
   "id": "rnk-core-mapgen",
   "title": "RNK™ Core MapGen",
   "description": "Core-tier MapGen module with the widest dungeon generation control surface and deep Foundry VTT integration.",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "authors": [
     {
       "name": "RNK™ Enterprise"
