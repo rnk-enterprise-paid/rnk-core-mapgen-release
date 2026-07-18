@@ -3463,6 +3463,15 @@ Hooks.once("init", () => {
     default: DEFAULT_AUTH_ENDPOINT,
   });
 
+  // World-scoped so a single Patreon login (by any GM) is shared with every
+  // GM/Assistant GM in this world, and survives page reloads.
+  game.settings.register(MODULE_NAME, "patreonSharedToken", {
+    scope: "world",
+    config: false,
+    type: String,
+    default: "",
+  });
+
   game.settings.register(MODULE_NAME, "globalAnalytics", {
     scope: "world",
     config: false,
