@@ -2,6 +2,11 @@
 
 All notable changes to RNK Core MapGen are documented in this file.
 
+## [1.0.10] - 2026-07-18
+
+### Fixed
+- Version-sync bump alongside the free-tier module (no functional changes here — the generation quota fix in that release was server-side only and never affected this module)
+
 ## [1.0.9] - 2026-07-18
 
 ### Fixed
